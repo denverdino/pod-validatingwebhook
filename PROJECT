@@ -1,0 +1,5 @@
+domain: wwww.aliyun.com
+layout:
+- go.kubebuilder.io/v3
+projectName: pod-validatingwebhook
+repo: pod-validatingwebhook
